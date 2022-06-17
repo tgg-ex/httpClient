@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.58</version>
+            <version>1.2.83</version>
         </dependency>
         <!--
              如果需要灵活的传输文件，引入次依赖后会更加方便
